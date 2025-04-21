@@ -1,6 +1,10 @@
 {
     "servers": [
         {
+            "name": "GuShuangchi",
+            "address": "https://gushuangchianisette.kooldns.cn"
+        },
+        {
             "name": "SideStore",
             "address": "https://ani.sidestore.io"
         },
